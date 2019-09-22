@@ -1,2 +1,2 @@
 # hello-world
-Newbs for dayz
+Following the tutorial again, because... hey why not.
